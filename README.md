@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/Gius-8/COVID-19-JSON/master/most_recent_report
             "Longitude": "112.2707"
         },
         ...
+    ]
 }
 ```
 All timestamps are in UTC (GMT+0).
