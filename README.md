@@ -19,9 +19,9 @@ https://raw.githubusercontent.com/Gius-8/COVID-19-JSON/master/italy_most_recent_
 {
     "Reports": [
         {
-            "Province/State": "Hubei",
-            "Country/Region": "Mainland China",
-            "Last Update": "2020-03-04T12:53:03",
+            "Province_State": "Hubei",
+            "Country_Region": "Mainland China",
+            "Last_Update": "2020-03-04T12:53:03",
             "Confirmed": "67332",
             "Deaths": "2871",
             "Recovered": "38557",
