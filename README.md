@@ -1,5 +1,5 @@
 # COVID-19 JSON Dataset
-All data is acquired from the [Johns Hopkins CSSE repository](https://github.com/CSSEGISandData/COVID-19).  
+All data is acquired from the [Johns Hopkins CSSE repository](https://github.com/CSSEGISandData/COVID-19) and [protezionecivile.gov.it](http://www.protezionecivile.gov.it/).  
 The system downloads the daily reports in csv format and converts them to json.
 
 The ***csse_covid_19_daily_reports_csv*** and ***csse_covid_19_daily_reports_json*** folders contain the reports in order by date starting from March 1st. 
