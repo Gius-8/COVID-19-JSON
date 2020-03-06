@@ -1,7 +1,7 @@
 {
     "Reports": [
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "45.657581",
             "longitude": "9.963600",
             "region": "Lombardia",
@@ -15,24 +15,21 @@
             "swabs": "13556"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "44.435188",
             "longitude": "10.976970",
-            "region": "Emilia",
-            "hospitalized": "Romagna",
-            "intensive_care": "397",
-            "home_isolation": "53",
-            "currently_positive": "366",
-            "recovered": "816",
-            "deaths": "17",
-            "totals_confirmed": "37",
-            "swabs": "870",
-            "null": [
-                "3136"
-            ]
+            "region": "Emilia Romagna",
+            "hospitalized": "397",
+            "intensive_care": "53",
+            "home_isolation": "366",
+            "currently_positive": "816",
+            "recovered": "17",
+            "deaths": "37",
+            "totals_confirmed": "870",
+            "swabs": "3136"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "45.735802",
             "longitude": "11.861790",
             "region": "Veneto",
@@ -46,7 +43,7 @@
             "swabs": "13023"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "43.304562",
             "longitude": "13.719470",
             "region": "Marche",
@@ -54,13 +51,13 @@
             "intensive_care": "20",
             "home_isolation": "62",
             "currently_positive": "155",
-            "recovered": "4",
-            "deaths": "159",
-            "totals_confirmed": "585",
-            "swabs": null
+            "recovered": "",
+            "deaths": "4",
+            "totals_confirmed": "159",
+            "swabs": "585"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "45.262051",
             "longitude": "7.920290",
             "region": "Piemonte",
@@ -68,13 +65,13 @@
             "intensive_care": "30",
             "home_isolation": "52",
             "currently_positive": "139",
-            "recovered": "4",
-            "deaths": "143",
-            "totals_confirmed": "793",
-            "swabs": null
+            "recovered": "",
+            "deaths": "4",
+            "totals_confirmed": "143",
+            "swabs": "793"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "43.355099",
             "longitude": "11.029560",
             "region": "Toscana",
@@ -88,7 +85,7 @@
             "swabs": "1097"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "41.812241",
             "longitude": "12.738510",
             "region": "Lazio",
@@ -102,21 +99,21 @@
             "swabs": "1373"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "40.997942",
             "longitude": "14.605100",
             "region": "Campania",
             "hospitalized": "12",
-            "intensive_care": "45",
-            "home_isolation": "57",
-            "currently_positive": "",
-            "recovered": "57",
-            "deaths": "471",
-            "totals_confirmed": null,
-            "swabs": null
+            "intensive_care": "",
+            "home_isolation": "45",
+            "currently_positive": "57",
+            "recovered": "",
+            "deaths": "",
+            "totals_confirmed": "57",
+            "swabs": "471"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "44.226318",
             "longitude": "8.783200",
             "region": "Liguria",
@@ -130,12 +127,12 @@
             "swabs": "229"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "46.163330",
             "longitude": "13.048580",
-            "region": "Friuli",
-            "hospitalized": "V.G.",
-            "intensive_care": "4",
+            "region": "Friuli V.G.",
+            "hospitalized": "4",
+            "intensive_care": "",
             "home_isolation": "24",
             "currently_positive": "28",
             "recovered": "3",
@@ -144,21 +141,21 @@
             "swabs": "577"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "37.599995",
             "longitude": "14.015356",
             "region": "Sicilia",
             "hospitalized": "7",
-            "intensive_care": "15",
-            "home_isolation": "22",
-            "currently_positive": "2",
-            "recovered": "",
-            "deaths": "24",
-            "totals_confirmed": "367",
-            "swabs": null
+            "intensive_care": "",
+            "home_isolation": "15",
+            "currently_positive": "22",
+            "recovered": "2",
+            "deaths": "",
+            "totals_confirmed": "24",
+            "swabs": "367"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "41.008091",
             "longitude": "16.726910",
             "region": "Puglia",
@@ -172,7 +169,7 @@
             "swabs": "395"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "42.991138",
             "longitude": "12.578360",
             "region": "Umbria",
@@ -181,12 +178,12 @@
             "home_isolation": "12",
             "currently_positive": "16",
             "recovered": "",
-            "deaths": "16",
-            "totals_confirmed": "110",
-            "swabs": null
+            "deaths": "",
+            "totals_confirmed": "16",
+            "swabs": "110"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "41.631088",
             "longitude": "14.493460",
             "region": "Molise",
@@ -195,107 +192,107 @@
             "home_isolation": "7",
             "currently_positive": "12",
             "recovered": "",
-            "deaths": "12",
-            "totals_confirmed": "104",
-            "swabs": null
+            "deaths": "",
+            "totals_confirmed": "12",
+            "swabs": "104"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "46.066669",
             "longitude": "11.119070",
             "region": "Trento",
             "hospitalized": "4",
-            "intensive_care": "6",
-            "home_isolation": "10",
-            "currently_positive": "",
-            "recovered": "10",
-            "deaths": "122",
-            "totals_confirmed": null,
-            "swabs": null
+            "intensive_care": "",
+            "home_isolation": "6",
+            "currently_positive": "10",
+            "recovered": "",
+            "deaths": "",
+            "totals_confirmed": "10",
+            "swabs": "122"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "42.288441",
             "longitude": "13.900870",
             "region": "Abruzzo",
             "hospitalized": "9",
-            "intensive_care": "9",
+            "intensive_care": "",
             "home_isolation": "",
             "currently_positive": "9",
-            "recovered": "96",
-            "deaths": null,
-            "totals_confirmed": null,
-            "swabs": null
+            "recovered": "",
+            "deaths": "",
+            "totals_confirmed": "9",
+            "swabs": "96"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "40.085899",
             "longitude": "8.979820",
             "region": "Sardegna",
             "hospitalized": "2",
-            "intensive_care": "3",
-            "home_isolation": "5",
-            "currently_positive": "",
-            "recovered": "5",
-            "deaths": "99",
-            "totals_confirmed": null,
-            "swabs": null
+            "intensive_care": "",
+            "home_isolation": "3",
+            "currently_positive": "5",
+            "recovered": "",
+            "deaths": "",
+            "totals_confirmed": "5",
+            "swabs": "99"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "40.516842",
             "longitude": "16.102051",
             "region": "Basilicata",
             "hospitalized": "1",
-            "intensive_care": "2",
-            "home_isolation": "3",
-            "currently_positive": "",
-            "recovered": "3",
-            "deaths": "63",
-            "totals_confirmed": null,
-            "swabs": null
+            "intensive_care": "",
+            "home_isolation": "2",
+            "currently_positive": "3",
+            "recovered": "",
+            "deaths": "",
+            "totals_confirmed": "3",
+            "swabs": "63"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "45.727489",
             "longitude": "7.370380",
-            "region": "Valle",
-            "hospitalized": "d'Aosta",
+            "region": "Valle d'Aosta",
+            "hospitalized": "",
             "intensive_care": "",
             "home_isolation": "7",
             "currently_positive": "7",
             "recovered": "",
-            "deaths": "7",
-            "totals_confirmed": "28",
-            "swabs": null
+            "deaths": "",
+            "totals_confirmed": "7",
+            "swabs": "28"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "39.616036",
             "longitude": "16.237750",
             "region": "Calabria",
             "hospitalized": "2",
-            "intensive_care": "2",
-            "home_isolation": "4",
-            "currently_positive": "",
-            "recovered": "4",
-            "deaths": "99",
-            "totals_confirmed": null,
-            "swabs": null
+            "intensive_care": "",
+            "home_isolation": "2",
+            "currently_positive": "4",
+            "recovered": "",
+            "deaths": "",
+            "totals_confirmed": "4",
+            "swabs": "99"
         },
         {
-            "last_update": "2020-03-06T18:56:27",
+            "last_update": "2020-03-06T19:00:40",
             "latitude": "46.496719",
             "longitude": "11.358000",
             "region": "Bolzano",
             "hospitalized": "4",
-            "intensive_care": "4",
+            "intensive_care": "",
             "home_isolation": "",
             "currently_positive": "4",
-            "recovered": "36",
-            "deaths": null,
-            "totals_confirmed": null,
-            "swabs": null
+            "recovered": "",
+            "deaths": "",
+            "totals_confirmed": "4",
+            "swabs": "36"
         }
     ]
 }
