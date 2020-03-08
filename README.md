@@ -1,10 +1,10 @@
 # COVID-19 JSON Dataset
-All data is acquired from the [Johns Hopkins CSSE repository](https://github.com/CSSEGISandData/COVID-19) and [protezionecivile.gov.it](http://www.protezionecivile.gov.it/).  
+All data is acquired from the [Johns Hopkins CSSE repository](https://github.com/CSSEGISandData/COVID-19) and [pcm-dpc](https://github.com/pcm-dpc/COVID-19).  
 The system downloads the daily reports in csv format and converts them to json.
 
 The ***csse_covid_19_daily_reports_csv*** and ***csse_covid_19_daily_reports_json*** folders contain the reports in order by date starting from March 1st. 
 
-Each file is renamed in the format: ***MM-DD-YYYY.csv in UTC***
+Each file is renamed in the format: ***MM-DD-YYYY.csv in UTC*** and ***MM-DD-YYYY_italy.csv in UTC***
 
 The ***most_recent_reports.json*** JSON file contains the world most recent data.  
 While the ***italy_most_recent_reports.json*** JSON file contains the most recent data in Italy.
