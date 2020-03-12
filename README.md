@@ -1,3 +1,6 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+[![GitHub commit](https://img.shields.io/github/last-commit/Gius-8/COVID-19-JSON)](https://github.com/Gius-8/COVID-19-JSON/commits/master)
+
 # COVID-19 JSON Dataset
 All data is acquired from the [Johns Hopkins CSSE repository](https://github.com/CSSEGISandData/COVID-19) and [pcm-dpc](https://github.com/pcm-dpc/COVID-19).  
 The system downloads the daily reports in csv format and converts them to json.
